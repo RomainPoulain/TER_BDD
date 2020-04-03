@@ -1,0 +1,33 @@
+#!/bin/bash
+
+i=-1
+
+while read line
+do
+#	echo "$line" | grep "{" | cut -d$'\t' -f5 >> json2.txt
+	#echo "$line" | grep "{\"name" | cut -d"\"" -f4,8,18,26 >> json2.txt
+	#echo "$line" | grep "{\"name" | cut -d"\"revision\":" -f1 >> json2.txt
+	echo ":(:$line" | grep "\"name\"" | cut -d":" -f2,4>> json2.txt
+	if [ $? -eq 1 ]
+	then
+		echo "NULL," >> json2.txt
+	fi
+	echo "$line" | grep "personal_name" | cut -d":" -f2 >>json2.txt
+	echo "$line" | grep "last_modified" 1>/dev/null 2>&1
+	if [ $? -eq 0 ]
+	then
+		i=2
+	fi
+		if [ $i -eq 0 ]
+	then
+		echo "$line," | cut -d" " -f2 >>json2.txt
+	fi
+	#echo "$line" | grep "birth_date" | cut -d":" -f2 >>json2.txt
+	#if [ $? -eq 1 ]
+	#then
+	#	echo "NULL," >> json2.txt
+	#fi
+	echo "$line);" | grep "\"revision\"" | cut -d":" -f2 >>json2.txt
+	i=$(($i-1))
+done < newjson.txt
+ 

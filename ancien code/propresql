@@ -1,0 +1,6 @@
+#!/bin/bash
+
+while read line
+do
+	 echo "$line" | sed -e 's/:/ /g' >>json3.txt
+done < json2.txt	

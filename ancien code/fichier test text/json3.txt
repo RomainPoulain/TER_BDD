@@ -1,0 +1,58 @@
+(  "Regina Bauer",
+"Regina Bauer",
+"2008-08-19T17 27 53.965006",
+2);
+(  "E. Wiersema",
+"E. Wiersema",
+"2008-08-19T17 28 04.491413",
+2);
+(  "Oli Hawrylyshyn",
+"Oli Hawrylyshyn",
+"2008-08-18T20 11 01.160284",
+2);
+(  "Sue Chessbrough",
+"Sue Chessbrough",
+"2008-08-19T17 29 47.868522",
+2);
+(  "Monika Osterheld-Koepke",
+"Monika Osterheld-Koepke",
+"2008-08-19T17 30 03.148704",
+2);
+(  "Tzvi Rotberg",
+"Tzvi Rotberg",
+"2008-08-18T20 11 03.300039",
+2);
+(  "Barbara Baratz",
+"Barbara Baratz",
+"2008-08-19T17 30 36.91889",
+2);
+(  "Czesu0142aw Jeu0328drzejek",
+"Czesu0142aw Jeu0328drzejek",
+"2008-08-19T17 38 07.010838",
+2);
+(  "Andrew Likierman",
+"Andrew Likierman",
+"2008-08-19T17 38 31.177313",
+2);
+(  "Heli Kovalainen",
+"Heli Kovalainen",
+"2008-08-19T17 40 09.059032",
+2);
+(  "Huguette Meu0301au-Lautour",
+"Huguette Meu0301au-Lautour",
+"2008-08-19T17 40 22.993658",
+2);
+(  "B. P. Shemiu0361akin",
+"B. P. Shemiu0361akin",
+"2017-11-22T03 52 51.762147",
+3);
+(  "Brenda J. Dyack",
+"Brenda J. Dyack",
+"2008-08-19T17 41 35.402537",
+2);
+"2008-04-01T03 28 50.625462",
+(  "University College, London. Library.",
+1);
+(  "Mansu0323uu0304r Ahu0323mad Mansu0323uu0304r",
+"Mansu0323uu0304r Ahu0323mad Mansu0323uu0304r",
+"2008-08-19T17 45 20.947967",

@@ -1,0 +1,3997 @@
+{
+  "name": "Regina Bauer",
+  "personal_name": "Regina Bauer",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T17:27:53.965006"
+  },
+  "key": "/authors/OL1144674A",
+  "birth_date": "1954",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "E. Wiersema",
+  "personal_name": "E. Wiersema",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T17:28:04.491413"
+  },
+  "key": "/authors/OL1144722A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Oli Hawrylyshyn",
+  "personal_name": "Oli Hawrylyshyn",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T20:11:01.160284"
+  },
+  "key": "/authors/OL1145031A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Sue Chessbrough",
+  "personal_name": "Sue Chessbrough",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T17:29:47.868522"
+  },
+  "key": "/authors/OL1145163A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Monika Osterheld-Koepke",
+  "personal_name": "Monika Osterheld-Koepke",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T17:30:03.148704"
+  },
+  "key": "/authors/OL1145237A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Tzvi Rotberg",
+  "personal_name": "Tzvi Rotberg",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T20:11:03.300039"
+  },
+  "key": "/authors/OL1145372A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Barbara Baratz",
+  "personal_name": "Barbara Baratz",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T17:30:36.91889"
+  },
+  "key": "/authors/OL1145408A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Czesu0142aw Jeu0328drzejek",
+  "personal_name": "Czesu0142aw Jeu0328drzejek",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T17:38:07.010838"
+  },
+  "key": "/authors/OL1147297A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Andrew Likierman",
+  "personal_name": "Andrew Likierman",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T17:38:31.177313"
+  },
+  "key": "/authors/OL1147392A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Heli Kovalainen",
+  "personal_name": "Heli Kovalainen",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T17:40:09.059032"
+  },
+  "key": "/authors/OL1147824A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Huguette Meu0301au-Lautour",
+  "personal_name": "Huguette Meu0301au-Lautour",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T17:40:22.993658"
+  },
+  "key": "/authors/OL1147903A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "B. P. Shemiu0361akin",
+  "personal_name": "B. P. Shemiu0361akin",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2017-11-22T03:52:51.762147"
+  },
+  "latest_revision": 3,
+  "key": "/authors/OL1148090A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 3
+}{
+  "name": "Brenda J. Dyack",
+  "personal_name": "Brenda J. Dyack",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T17:41:35.402537"
+  },
+  "key": "/authors/OL1148195A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "University College, London. Library.",
+  "key": "/authors/OL1149026A",
+  "revision": 1
+}{
+  "name": "Mansu0323uu0304r Ahu0323mad Mansu0323uu0304r",
+  "personal_name": "Mansu0323uu0304r Ahu0323mad Mansu0323uu0304r",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T17:45:20.947967"
+  },
+  "key": "/authors/OL1149109A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Joseu0301 Baudel",
+  "personal_name": "Joseu0301 Baudel",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T17:45:27.829556"
+  },
+  "key": "/authors/OL1149145A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Sreshta na mladite buu0306lgarski zhurnalisti (2nd 1983 Sofia? Bulgaria)",
+  "key": "/authors/OL1149358A",
+  "revision": 1
+}{
+  "name": "Rudolf Grulich",
+  "personal_name": "Rudolf Grulich",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T17:46:31.76951"
+  },
+  "key": "/authors/OL1149394A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "L. Milcu030cinski",
+  "personal_name": "L. Milcu030cinski",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T13:32:48.356676"
+  },
+  "key": "/authors/OL1149413A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Ajoy Maity",
+  "personal_name": "Ajoy Maity",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-09-10T10:52:28.409089"
+  },
+  "key": "/authors/OL11496A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Jules Grosjean",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "death_date": "1906",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2012-06-06T12:33:18.334466"
+  },
+  "latest_revision": 3,
+  "key": "/authors/OL1149798A",
+  "birth_date": "1872",
+  "personal_name": "Jules Grosjean",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 3
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "University of Illinois (Urbana-Champaign campus). Bureau of Business Research.",
+  "key": "/authors/OL115045A",
+  "revision": 1
+}{
+  "name": "B. I. Kolodiiu0306",
+  "personal_name": "B. I. Kolodiiu0306",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T17:50:48.847947"
+  },
+  "key": "/authors/OL1150491A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "V. Iu0361A Herasymenko",
+  "personal_name": "V. Iu0361A Herasymenko",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2017-11-22T03:52:54.120016"
+  },
+  "latest_revision": 3,
+  "key": "/authors/OL1150617A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 3
+}{
+  "name": "Opal Hanson",
+  "personal_name": "Opal Hanson",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T17:51:38.327853"
+  },
+  "key": "/authors/OL1150712A",
+  "birth_date": "1918",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Burton W. Spear",
+  "personal_name": "Burton W. Spear",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T17:51:56.224969"
+  },
+  "key": "/authors/OL1150820A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Toini-Inkeri Kaukonen",
+  "personal_name": "Toini-Inkeri Kaukonen",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T17:54:23.891388"
+  },
+  "key": "/authors/OL1151467A",
+  "birth_date": "1913",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Rufus Choate",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "death_date": "1859",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2017-03-31T09:48:02.478908"
+  },
+  "latest_revision": 4,
+  "key": "/authors/OL115166A",
+  "birth_date": "1799",
+  "personal_name": "Rufus Choate",
+  "remote_ids": {
+    "viaf": "33288487",
+    "wikidata": "Q2174770"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 4
+}{
+  "name": "Francesco Pierotti",
+  "personal_name": "Francesco Pierotti",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T17:55:23.850704"
+  },
+  "key": "/authors/OL1151782A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Antonio Bonato",
+  "personal_name": "Antonio Bonato",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T17:55:45.666704"
+  },
+  "key": "/authors/OL1151896A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Gert Luu0308deritz",
+  "personal_name": "Gert Luu0308deritz",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T17:56:16.614263"
+  },
+  "key": "/authors/OL1152071A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "W. Darcy McKeough",
+  "personal_name": "W. Darcy McKeough",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T18:02:49.747742"
+  },
+  "key": "/authors/OL1153692A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Maria Luu0301cia da Conceicu0327au0303o Abrantes Amaral Pinto Correia",
+  "personal_name": "Maria Luu0301cia da Conceicu0327au0303o Abrantes Amaral Pinto Correia",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T18:03:05.425649"
+  },
+  "key": "/authors/OL1153797A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Gunnar Nylund",
+  "personal_name": "Gunnar Nylund",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T18:03:34.621452"
+  },
+  "key": "/authors/OL1153951A",
+  "birth_date": "1909",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Robert Weir Watson",
+  "personal_name": "Robert Weir Watson",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-09-09T07:12:42.493706"
+  },
+  "key": "/authors/OL115399A",
+  "birth_date": "1896",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Thodou0304reu0304s A. Roumpaneu0304s",
+  "personal_name": "Thodou0304reu0304s A. Roumpaneu0304s",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T18:07:16.736414"
+  },
+  "key": "/authors/OL1154914A",
+  "birth_date": "1953",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Elmer Drew Merrill",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "death_date": "1956",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2017-03-31T13:45:33.419988"
+  },
+  "latest_revision": 4,
+  "key": "/authors/OL115513A",
+  "birth_date": "1876",
+  "personal_name": "Elmer Drew Merrill",
+  "remote_ids": {
+    "viaf": "37015427",
+    "wikidata": "Q729926"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 4
+}{
+  "name": "Boliu0301var Leou0301n V.",
+  "personal_name": "Boliu0301var Leou0301n V.",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T18:10:52.044651"
+  },
+  "key": "/authors/OL1155908A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "V. A. Zherdeva",
+  "personal_name": "V. A. Zherdeva",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T18:11:12.282302"
+  },
+  "key": "/authors/OL1156022A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Kou0304nstantinos V. Chiou0304los",
+  "personal_name": "Kou0304nstantinos V. Chiou0304los",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T18:11:43.469957"
+  },
+  "key": "/authors/OL1156174A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Tarcisio Venuti",
+  "personal_name": "Tarcisio Venuti",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T18:12:12.258768"
+  },
+  "key": "/authors/OL1156307A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "V. N. Adamenko",
+  "personal_name": "V. N. Adamenko",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T18:13:02.587263"
+  },
+  "key": "/authors/OL1156578A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Conner & Cooke.",
+  "key": "/authors/OL1156633A",
+  "revision": 1
+}{
+  "name": "Heiner Lindner",
+  "personal_name": "Heiner Lindner",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T18:14:30.050128"
+  },
+  "key": "/authors/OL1157003A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Adrian Bueckling",
+  "personal_name": "Adrian Bueckling",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T18:14:51.074168"
+  },
+  "key": "/authors/OL1157124A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Francu0327ois Mortureux",
+  "personal_name": "Francu0327ois Mortureux",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T18:16:36.083772"
+  },
+  "key": "/authors/OL1157551A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Helen Maria Williams",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "death_date": "1827",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2017-04-19T07:32:04.115933"
+  },
+  "latest_revision": 6,
+  "key": "/authors/OL115759A",
+  "birth_date": "1762",
+  "personal_name": "Helen Maria Williams",
+  "remote_ids": {
+    "viaf": "231145546210096660001",
+    "wikidata": "Q525710"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 6
+}{
+  "name": "Kerstin Brorson",
+  "personal_name": "Kerstin Brorson",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T18:17:24.082545"
+  },
+  "key": "/authors/OL1157757A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Cl Pirlot",
+  "personal_name": "Cl Pirlot",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T18:18:31.901983"
+  },
+  "key": "/authors/OL1158064A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Keith Colquhoun",
+  "personal_name": "Keith Colquhoun",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T13:33:40.3637"
+  },
+  "key": "/authors/OL1158143A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Russell of Liverpool, Edward Frederick Langley Russell Baron",
+  "personal_name": "Russell of Liverpool, Edward Frederick Langley Russell",
+  "death_date": "1981",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-30T18:50:03.520053"
+  },
+  "key": "/authors/OL1158468A",
+  "birth_date": "1895",
+  "title": "Baron",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Aleksanduu0306r Raiu0306chev",
+  "personal_name": "Aleksanduu0306r Raiu0306chev",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T18:20:21.540552"
+  },
+  "key": "/authors/OL1158583A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Laureano Castau0301n Lacoma",
+  "personal_name": "Laureano Castau0301n Lacoma",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T18:20:33.680624"
+  },
+  "key": "/authors/OL1158635A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Seabury, George J.",
+  "personal_name": "Seabury, George J.",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "key": "/authors/OL1158679A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 1
+}{
+  "name": "Luiz Pereira",
+  "personal_name": "Luiz Pereira",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T18:21:05.578365"
+  },
+  "key": "/authors/OL1158770A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Pieter W. Otter",
+  "personal_name": "Pieter W. Otter",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T18:22:26.466934"
+  },
+  "key": "/authors/OL1159113A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Paul P. Zwaenepoel",
+  "personal_name": "Paul P. Zwaenepoel",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T18:22:54.806026"
+  },
+  "key": "/authors/OL1159254A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Colonel C. P. Stacey",
+  "personal_name": "Colonel C. P. Stacey",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T18:23:02.037673"
+  },
+  "key": "/authors/OL1159298A",
+  "birth_date": "1906",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "N. P. Kalyanam",
+  "personal_name": "N. P. Kalyanam",
+  "death_date": ".",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-09-14T14:37:15.88527"
+  },
+  "key": "/authors/OL11593A",
+  "birth_date": "1927",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 3
+}{
+  "name": "I. A. Vasilenko",
+  "personal_name": "I. A. Vasilenko",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T18:23:20.94796"
+  },
+  "key": "/authors/OL1159409A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Alice Ross Colver",
+  "personal_name": "Alice Ross Colver",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T18:23:32.883517"
+  },
+  "key": "/authors/OL1159445A",
+  "birth_date": "1892",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "S. Namatbaev",
+  "personal_name": "S. Namatbaev",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T18:23:47.896877"
+  },
+  "key": "/authors/OL1159526A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Failure Prevention and Reliability Conference (1985 Cincinnati, Ohio)",
+  "key": "/authors/OL1159658A",
+  "revision": 1
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "IPFC Working Party on Inland Fisheries.",
+  "key": "/authors/OL1159694A",
+  "revision": 1
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Uruguay. Ejeu0301rcito.",
+  "key": "/authors/OL1160139A",
+  "revision": 1
+}{
+  "name": "Howard I. Durie",
+  "personal_name": "Howard I. Durie",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T18:26:20.738684"
+  },
+  "key": "/authors/OL1160175A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Wiktor Micherdzinu0301ski",
+  "personal_name": "Wiktor Micherdzinu0301ski",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T18:26:28.509398"
+  },
+  "key": "/authors/OL1160236A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Carington Bowles",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "death_date": "1793",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2012-06-07T08:03:15.422376"
+  },
+  "latest_revision": 3,
+  "key": "/authors/OL116080A",
+  "birth_date": "1724",
+  "personal_name": "Carington Bowles",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 3
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Fachkonferenz "Zukuu0308nftigerArbeitsmarktundQualifizierungderMusikberufe" (1983 Bonn, Germany)",
+  "key": "/authors/OL1161006A",
+  "revision": 1
+}{
+  "name": "P. G. Osokin",
+  "personal_name": "P. G. Osokin",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T18:29:35.453832"
+  },
+  "key": "/authors/OL1161125A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Aldo Luzzi",
+  "personal_name": "Aldo Luzzi",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T18:29:45.641077"
+  },
+  "key": "/authors/OL1161169A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Lucas Beltrau0301n",
+  "personal_name": "Lucas Beltrau0301n",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T18:29:59.080259"
+  },
+  "key": "/authors/OL1161240A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Caldwell, Francis Cary",
+  "personal_name": "Caldwell, Francis Cary",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "key": "/authors/OL116246A",
+  "birth_date": "1868",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 1
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Queu0301bec (Province). Ministre d'Etat au0300 la reu0301forme eu0301lectorale.",
+  "key": "/authors/OL1162582A",
+  "revision": 1
+}{
+  "name": "Gabriele Wolfslast",
+  "personal_name": "Gabriele Wolfslast",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T18:36:20.543104"
+  },
+  "key": "/authors/OL1162667A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Netherlands. Ministerie van Justitie.",
+  "key": "/authors/OL1162810A",
+  "revision": 1
+}{
+  "name": "Georgiiu0306 Nikulin",
+  "personal_name": "Georgiiu0306 Nikulin",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T18:37:36.560416"
+  },
+  "key": "/authors/OL1162959A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "V. A. Shabelu02b9skiiu0306",
+  "personal_name": "V. A. Shabelu02b9skiiu0306",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T18:39:58.644417"
+  },
+  "key": "/authors/OL1163466A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Erik Grandjean",
+  "personal_name": "Erik Grandjean",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T18:40:26.527685"
+  },
+  "key": "/authors/OL1163585A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Joseph Mathias",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "death_date": "1851",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2012-06-07T08:28:20.000330"
+  },
+  "latest_revision": 3,
+  "key": "/authors/OL1163620A",
+  "birth_date": "1778",
+  "personal_name": "Joseph Mathias",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 3
+}{
+  "name": "Heaika Buljo",
+  "personal_name": "Heaika Buljo",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T18:41:59.175613"
+  },
+  "key": "/authors/OL1163912A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Dusu030can Ru030cezanina",
+  "personal_name": "Dusu030can Ru030cezanina",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T18:42:18.687959"
+  },
+  "key": "/authors/OL1164001A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "George Whitfield Pepper",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "death_date": "1899",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2012-06-07T09:11:01.804653"
+  },
+  "latest_revision": 3,
+  "key": "/authors/OL116440A",
+  "birth_date": "1833",
+  "personal_name": "George Whitfield Pepper",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 3
+}{
+  "name": "Egorov, Ivan Vasilu02b9evich",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "death_date": "1971",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2012-06-06T23:54:32.559408"
+  },
+  "latest_revision": 2,
+  "key": "/authors/OL1165271A",
+  "birth_date": "188",
+  "personal_name": "Egorov, Ivan Vasilu02b9evich",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Alfred Neumeyer",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "death_date": "1973",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2017-03-31T10:42:05.001223"
+  },
+  "latest_revision": 4,
+  "key": "/authors/OL116633A",
+  "birth_date": "1901",
+  "personal_name": "Alfred Neumeyer",
+  "remote_ids": {
+    "viaf": "2517189",
+    "wikidata": "Q2645586"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 4
+}{
+  "name": "Lorenzo Cuonzo",
+  "personal_name": "Lorenzo Cuonzo",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T00:05:12.007697"
+  },
+  "key": "/authors/OL1168157A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Mario Zolezzi Chocano",
+  "personal_name": "Mario Zolezzi Chocano",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T00:06:16.593329"
+  },
+  "key": "/authors/OL1168351A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Herman L. Wascher",
+  "personal_name": "Herman L. Wascher",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-09-09T07:43:39.236264"
+  },
+  "key": "/authors/OL116839A",
+  "birth_date": "1899",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Meyer, Hans Dr.",
+  "title": "Dr.",
+  "personal_name": "Meyer, Hans",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "key": "/authors/OL1168603A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 1
+}{
+  "name": "Werner Wippich",
+  "personal_name": "Werner Wippich",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T00:08:09.313265"
+  },
+  "key": "/authors/OL1168724A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Joseu0301 Duro",
+  "personal_name": "Joseu0301 Duro",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T00:09:37.318297"
+  },
+  "key": "/authors/OL1169107A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Adelaida Vivar",
+  "personal_name": "Adelaida Vivar",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T00:10:01.448126"
+  },
+  "key": "/authors/OL1169222A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Alfredo Nery Paiva",
+  "personal_name": "Alfredo Nery Paiva",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T00:10:31.869972"
+  },
+  "key": "/authors/OL1169374A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Ataliba Lago",
+  "personal_name": "Ataliba Lago",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T00:10:42.515145"
+  },
+  "key": "/authors/OL1169433A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Sociedade Auxiliadora da Induu0301stria Nacional (Brazil)",
+  "key": "/authors/OL1169778A",
+  "revision": 1
+}{
+  "name": "Joaquim de Oliveira",
+  "personal_name": "Joaquim de Oliveira",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T00:13:19.441016"
+  },
+  "key": "/authors/OL1170242A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Juan Carlos Durau0301n",
+  "personal_name": "Juan Carlos Durau0301n",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T00:13:45.346701"
+  },
+  "key": "/authors/OL1170361A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Conference on Assessment of the National Effort to Combat Mental Retardation from Biomedical Causes (1983 Washington, D.C.)",
+  "key": "/authors/OL1170714A",
+  "revision": 1
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Colorado. General Assembly. Legislative Council. Committee on Business Issues.",
+  "key": "/authors/OL1171308A",
+  "revision": 1
+}{
+  "name": "Janice D. Fechhelm",
+  "personal_name": "Janice D. Fechhelm",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T00:16:49.844963"
+  },
+  "key": "/authors/OL1171472A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Tennessee. Dept. of Finance and Administration.",
+  "key": "/authors/OL1171537A",
+  "revision": 1
+}{
+  "name": "David W. Clark",
+  "personal_name": "David W. Clark",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T00:17:12.337269"
+  },
+  "key": "/authors/OL1171663A",
+  "birth_date": "1951",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Maryland Commissioners on Uniform State Laws.",
+  "key": "/authors/OL1171731A",
+  "revision": 1
+}{
+  "name": "Jackson, J. Hampden",
+  "personal_name": "Jackson, J. Hampden",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "key": "/authors/OL117234A",
+  "birth_date": "1907",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 1
+}{
+  "name": "A. Duane",
+  "personal_name": "A. Duane",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T00:20:50.440909"
+  },
+  "key": "/authors/OL1172381A",
+  "birth_date": "1858",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Otto Dornbluu0308th",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "death_date": "1922",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2012-06-06T22:21:43.946618"
+  },
+  "latest_revision": 3,
+  "key": "/authors/OL1172833A",
+  "birth_date": "1860",
+  "personal_name": "Otto Dornbluu0308th",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 3
+}{
+  "name": "T. G. Vyvyan",
+  "personal_name": "T. G. Vyvyan",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T00:23:41.19603"
+  },
+  "key": "/authors/OL1173092A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Julius Friedlau0308nder",
+  "personal_name": "Julius Friedlau0308nder",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T00:24:29.818673"
+  },
+  "key": "/authors/OL1173197A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "I. Paiu0308leu0301s",
+  "personal_name": "I. Paiu0308leu0301s",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T00:30:04.396555"
+  },
+  "key": "/authors/OL1174017A",
+  "birth_date": "1895",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Society for Creative Anachronism. Middle Kingdom.",
+  "key": "/authors/OL1174112A",
+  "revision": 1
+}{
+  "name": "S. Mervyn Herbert",
+  "personal_name": "S. Mervyn Herbert",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-09-09T07:54:33.316251"
+  },
+  "key": "/authors/OL117425A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Inocencio Coeu0302lho",
+  "personal_name": "Inocencio Coeu0302lho",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T00:31:12.004573"
+  },
+  "key": "/authors/OL1174291A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Longhi, Roberto",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "death_date": "1970",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2017-03-31T11:18:55.757451"
+  },
+  "latest_revision": 3,
+  "key": "/authors/OL117573A",
+  "birth_date": "1890",
+  "personal_name": "Longhi, Roberto",
+  "remote_ids": {
+    "viaf": "39380437",
+    "wikidata": "Q1361667"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 3
+}{
+  "name": "Raul Correu0302a de Sousa Guimarau0303es",
+  "personal_name": "Raul Correu0302a de Sousa Guimarau0303es",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T00:36:54.143152"
+  },
+  "key": "/authors/OL1175872A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Sau0303o Paulo (Brazil : State). Tribunal de Apelacu0327au0303o. Biblioteca.",
+  "key": "/authors/OL1175937A",
+  "revision": 1
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Espiu0301rito Santo (Brazil : State). Departamento Estadual de Estatiu0301stica.",
+  "key": "/authors/OL1176671A",
+  "revision": 1
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Fundaciou0301n Salvadorenu0303a para el Desarrollo Econou0301mico y Social.",
+  "key": "/authors/OL1176806A",
+  "revision": 1
+}{
+  "name": "Alberto J. Ureta",
+  "personal_name": "Alberto J. Ureta",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T00:40:14.992383"
+  },
+  "key": "/authors/OL1176925A",
+  "birth_date": "1885",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Edmond Flax",
+  "personal_name": "Edmond Flax",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T00:40:23.939431"
+  },
+  "key": "/authors/OL1176969A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Reed, Douglas",
+  "personal_name": "Reed, Douglas",
+  "death_date": "1976",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-10-31T23:57:48.486179"
+  },
+  "key": "/authors/OL117700A",
+  "birth_date": "1895",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "G. Baumgarten",
+  "personal_name": "G. Baumgarten",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T00:41:48.793544"
+  },
+  "key": "/authors/OL1177401A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "A. S. Nekrasov",
+  "personal_name": "A. S. Nekrasov",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T00:42:21.186051"
+  },
+  "key": "/authors/OL1177562A",
+  "birth_date": "1907",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Nelly Stahel",
+  "personal_name": "Nelly Stahel",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T00:43:46.859101"
+  },
+  "key": "/authors/OL1177939A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Internationale Wissenschaftliche Konferenz uu0308ber Arbeiterbewegung und Klassik (1964 Weimar, Thuringia, Germany)",
+  "key": "/authors/OL1177975A",
+  "revision": 1
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "International Congress for Noise Abatement (2nd 1962 Salzburg, Austria)",
+  "key": "/authors/OL1178066A",
+  "revision": 1
+}{
+  "name": "Wilhelm Pfirrmann",
+  "personal_name": "Wilhelm Pfirrmann",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T00:44:54.760321"
+  },
+  "key": "/authors/OL1178185A",
+  "birth_date": "1932",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Alfons Stillfried",
+  "personal_name": "Alfons Stillfried",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T00:45:04.681631"
+  },
+  "key": "/authors/OL1178220A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Wolfgang Hamm",
+  "personal_name": "Wolfgang Hamm",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-23T18:23:17.328512"
+  },
+  "key": "/authors/OL1179199A",
+  "birth_date": "1947",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 3
+}{
+  "name": "Carl Albert Loosli",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "death_date": "1959",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2017-03-31T13:34:33.381862"
+  },
+  "latest_revision": 4,
+  "key": "/authors/OL1179410A",
+  "birth_date": "1877",
+  "personal_name": "Carl Albert Loosli",
+  "remote_ids": {
+    "viaf": "46803445",
+    "wikidata": "Q122681"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 4
+}{
+  "name": "Walter von Horn",
+  "personal_name": "Walter von Horn",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T08:42:43.90533"
+  },
+  "key": "/authors/OL1179515A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "bio": {
+    "type": "/type/text",
+    "value": "[Deutsch] Deutscher Orientalist und Theologe.rn[English] German orientalist and biblical scholar."
+  },
+  "name": "August Dillmann",
+  "links": [
+    {
+      "url": "http://de.wikipedia.org/wiki/August_Dillmann",
+      "type": {
+        "key": "/type/link"
+      },
+      "title": "Wikipedia (Deutsch)"
+    },
+    {
+      "url": "http://en.wikipedia.org/wiki/August_Dillmann",
+      "type": {
+        "key": "/type/link"
+      },
+      "title": "Wikipedia (English)"
+    }
+  ],
+  "personal_name": "August Dillmann",
+  "death_date": "4 July 1894.",
+  "alternate_names": [
+    "Christian Friedrich August Dillmann",
+    "Ch. F. A. Dillmann",
+    "Friedrich August Dillmann",
+    "F. A. Dillmann",
+    "Augustus Dillmann",
+    "August Dillmann",
+    "A. Dillmann"
+  ],
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "photos": [
+    6676274
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2017-03-31T12:45:57.925108"
+  },
+  "latest_revision": 8,
+  "key": "/authors/OL1179559A",
+  "birth_date": "25 April 1823",
+  "revision": 8,
+  "type": {
+    "key": "/type/author"
+  },
+  "remote_ids": {
+    "viaf": "45046685",
+    "wikidata": "Q75216"
+  }
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Physikertagung (1966 Munich, Germany)",
+  "key": "/authors/OL1179696A",
+  "revision": 1
+}{
+  "name": "Harold W. Picton",
+  "personal_name": "Harold W. Picton",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-09-09T08:04:10.580185"
+  },
+  "key": "/authors/OL117986A",
+  "birth_date": "1867",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Joachim Sendzik",
+  "personal_name": "Joachim Sendzik",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T08:45:19.362415"
+  },
+  "key": "/authors/OL1179982A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Joy Laurey",
+  "personal_name": "Joy Laurey",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T08:46:32.671145"
+  },
+  "key": "/authors/OL1180201A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Denise Gueu0301nette",
+  "personal_name": "Denise Gueu0301nette",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T08:47:51.353005"
+  },
+  "key": "/authors/OL1180362A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Joseu0301 Antonio Peu0301rez Echeguren",
+  "personal_name": "Joseu0301 Antonio Peu0301rez Echeguren",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-09-09T08:06:53.704081"
+  },
+  "key": "/authors/OL118060A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "John Ames Mitchell",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "death_date": "1918",
+  "alternate_names": [
+    "J. A. Mitchell"
+  ],
+  "photos": [
+    7256756
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2017-05-08T12:27:17.785093"
+  },
+  "latest_revision": 6,
+  "key": "/authors/OL1181471A",
+  "birth_date": "1845",
+  "personal_name": "John Ames Mitchell",
+  "revision": 6,
+  "type": {
+    "key": "/type/author"
+  },
+  "remote_ids": {
+    "viaf": "263923",
+    "wikidata": "Q6218902"
+  }
+}{
+  "name": "Sheila Jubelirer Siegel",
+  "personal_name": "Sheila Jubelirer Siegel",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T08:54:27.04425"
+  },
+  "key": "/authors/OL1181840A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "O. P. Chopra",
+  "personal_name": "O. P. Chopra",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T08:56:33.209658"
+  },
+  "key": "/authors/OL1182399A",
+  "birth_date": "1941",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "D. S. Rao",
+  "personal_name": "D. S. Rao",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T08:56:53.280753"
+  },
+  "key": "/authors/OL1182496A",
+  "birth_date": "1938",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Jhansi (India : District). District Industries Centre.",
+  "key": "/authors/OL1182610A",
+  "revision": 1
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Symposium on Earthquake Effects on Plant and Equipment (1984 Hyderabad, India)",
+  "key": "/authors/OL1182715A",
+  "revision": 1
+}{
+  "name": "T. K. Pal",
+  "personal_name": "T. K. Pal",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T08:57:36.499713"
+  },
+  "key": "/authors/OL1182759A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Library of Tibetan Works & Archives. Manuscript Section.",
+  "key": "/authors/OL1182867A",
+  "revision": 1
+}{
+  "name": "Kamalesu0301a",
+  "personal_name": "Kamalesu0301a",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "key": "/authors/OL1183420A",
+  "birth_date": "1938",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 1
+}{
+  "name": "I. P. Gupta",
+  "personal_name": "I. P. Gupta",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T09:00:21.474449"
+  },
+  "key": "/authors/OL1183666A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Ye-su0301es-brtson-u02bcgrus.",
+  "personal_name": "Ye-su0301es-brtson-u02bcgrus.",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "key": "/authors/OL1183785A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 1
+}{
+  "name": "Carl Kester Dorsey",
+  "personal_name": "Carl Kester Dorsey",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-09-09T08:13:34.138337"
+  },
+  "key": "/authors/OL118385A",
+  "birth_date": "1911",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Gauri Shanker Narnolia",
+  "personal_name": "Gauri Shanker Narnolia",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T09:00:52.739483"
+  },
+  "key": "/authors/OL1183891A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Jammu and Kashmir (India). Research and Publication Dept. Sanskrit Manuscript Library.",
+  "key": "/authors/OL1184036A",
+  "revision": 1
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Sindhiu0304 Sau0304hitya Samau0304roh (1982 Raipur, India)",
+  "key": "/authors/OL1184339A",
+  "revision": 1
+}{
+  "name": "Miu0304rzau0304 Kalb-i Hu0323usain Ku0332hu0332au0304nu0332 Nau0304dir",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "death_date": "1878",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2012-06-07T08:47:18.925673"
+  },
+  "latest_revision": 3,
+  "key": "/authors/OL1184375A",
+  "birth_date": "1805",
+  "personal_name": "Miu0304rzau0304 Kalb-i Hu0323usain Ku0332hu0332au0304nu0332 Nau0304dir",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 3
+}{
+  "name": "Mullau0304, Jiu0304. Au0304r.",
+  "personal_name": "Mullau0304, Jiu0304. Au0304r.",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "key": "/authors/OL1185695A",
+  "birth_date": "1939",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 1
+}{
+  "name": "Muhu0323ammad Bau0304qir Khau0304lisu0323iu0304",
+  "personal_name": "Muhu0323ammad Bau0304qir Khau0304lisu0323iu0304",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T09:03:36.093419"
+  },
+  "key": "/authors/OL1185790A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Seminar Bahasa, Sastra, Etika, dan Seni Jawa, Bali dan Sunda (1985 : Yogyakarta, Indonesia)",
+  "key": "/authors/OL1185956A",
+  "revision": 1
+}{
+  "name": "Ahu0323mad Iskau0304fiu0304",
+  "personal_name": "Ahu0323mad Iskau0304fiu0304",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T09:05:52.223376"
+  },
+  "key": "/authors/OL1186913A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "NATO Advanced Study Institute on Biopolymers (1984 Iu0307zmir, Turkey)",
+  "key": "/authors/OL1187864A",
+  "revision": 1
+}{
+  "name": "Lyn Ellen Lacy",
+  "personal_name": "Lyn Ellen Lacy",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T09:10:57.62259"
+  },
+  "key": "/authors/OL1187943A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Madalon O'Rawe Amenta",
+  "personal_name": "Madalon O'Rawe Amenta",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T09:13:43.066209"
+  },
+  "key": "/authors/OL1188300A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "John R. Dos Passos",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "death_date": "1917",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2012-06-06T21:39:28.569672"
+  },
+  "latest_revision": 3,
+  "key": "/authors/OL1188573A",
+  "birth_date": "1844",
+  "personal_name": "John R. Dos Passos",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 3
+}{
+  "name": "Gabriel Herman",
+  "personal_name": "Gabriel Herman",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T09:16:46.845606"
+  },
+  "key": "/authors/OL1188638A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "William C. Casey",
+  "personal_name": "William C. Casey",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T09:19:34.081737"
+  },
+  "key": "/authors/OL1189004A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Michael D. Mahler",
+  "personal_name": "Michael D. Mahler",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T09:24:14.742485"
+  },
+  "key": "/authors/OL1189556A",
+  "birth_date": "1936",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Irene Mortenson Burnside",
+  "personal_name": "Irene Mortenson Burnside",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T09:28:41.706789"
+  },
+  "key": "/authors/OL1190099A",
+  "birth_date": "1923",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Donald M. Lewis",
+  "personal_name": "Donald M. Lewis",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2011-01-31T08:22:52.746701"
+  },
+  "latest_revision": 3,
+  "key": "/authors/OL1190415A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 3
+}{
+  "name": "Stuart Dollin",
+  "personal_name": "Stuart Dollin",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T09:31:34.496716"
+  },
+  "key": "/authors/OL1190459A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "B. de Wit",
+  "personal_name": "B. de Wit",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T09:31:56.108422"
+  },
+  "key": "/authors/OL1190510A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Sharon K. Tuggle",
+  "personal_name": "Sharon K. Tuggle",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T09:34:12.461592"
+  },
+  "key": "/authors/OL1190796A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Helmut Holzapfel",
+  "personal_name": "Helmut Holzapfel",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T09:34:42.195662"
+  },
+  "key": "/authors/OL1190882A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "W. M. Smart",
+  "personal_name": "W. M. Smart",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-09-09T08:28:40.805388"
+  },
+  "key": "/authors/OL119096A",
+  "birth_date": "1889",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Randall Lee Pouwels",
+  "personal_name": "Randall Lee Pouwels",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T09:39:43.133496"
+  },
+  "key": "/authors/OL1191540A",
+  "birth_date": "1944",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Morris Gibson",
+  "personal_name": "Morris Gibson",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T09:40:15.050122"
+  },
+  "key": "/authors/OL1191625A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Paul R. Wheater",
+  "personal_name": "Paul R. Wheater",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T09:40:27.554555"
+  },
+  "key": "/authors/OL1191669A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Joseph P. LaSalle",
+  "personal_name": "Joseph P. LaSalle",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T09:40:45.233092"
+  },
+  "key": "/authors/OL1191706A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Alan Finkelstein",
+  "personal_name": "Alan Finkelstein",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T09:42:33.555686"
+  },
+  "key": "/authors/OL1191971A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Bolu00edvar Pagu00e1n",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "personal_name": "Bolu00edvar Pagu00e1n",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2009-05-22T08:41:16.395407"
+  },
+  "latest_revision": 3,
+  "key": "/authors/OL119210A",
+  "birth_date": "1899",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 3
+}{
+  "name": "E. T. Keravnou",
+  "personal_name": "E. T. Keravnou",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T09:46:10.922843"
+  },
+  "key": "/authors/OL1192462A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "John Stephen Doherty",
+  "personal_name": "John Stephen Doherty",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T09:46:23.742969"
+  },
+  "key": "/authors/OL1192501A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Henry Lumpkin",
+  "personal_name": "Henry Lumpkin",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T09:48:45.420204"
+  },
+  "key": "/authors/OL1192839A",
+  "birth_date": "1913",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "NATO Advanced Study Institute on New Experimental Modalities in the Control of Neoplasia (1985 Maratea, Italy)",
+  "key": "/authors/OL1192875A",
+  "revision": 1
+}{
+  "name": "Carl Williams Kelley",
+  "personal_name": "Carl Williams Kelley",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-09-09T08:32:06.822073"
+  },
+  "key": "/authors/OL119315A",
+  "birth_date": "1908",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "IFIP TC 6/WG 6.4 International In-Depth Symposium on Local Communication Systems, LAN and PBX (1st 1986 Toulouse, France)",
+  "key": "/authors/OL1193191A",
+  "revision": 1
+}{
+  "name": "Robin M. Haynes",
+  "personal_name": "Robin M. Haynes",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-19T09:50:59.868373"
+  },
+  "key": "/authors/OL1193212A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Zbigniew D. Jastrzebski",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "personal_name": "Zbigniew D. Jastrzebski",
+  "alternate_names": [
+    "Zbigniew Jastrzebski",
+    "Z.D. Jastrzebski",
+    "JASTRZEBSKI INS",
+    "ZbigniewD Jastrzebski",
+    "Zbigniew Damazy Jastrzebski",
+    "ZD JASTRZEBSKI"
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2011-04-25T23:19:17.148577"
+  },
+  "latest_revision": 3,
+  "key": "/authors/OL1193317A",
+  "birth_date": "1910",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 3
+}{
+  "name": "Ravindra u1e6chu0101kora",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "personal_name": "Ravindra u1e6chu0101kora",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2009-05-14T13:27:40.681465"
+  },
+  "latest_revision": 3,
+  "key": "/authors/OL11948A",
+  "birth_date": "1928",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 3
+}{
+  "name": "George H. Hoemann",
+  "personal_name": "George H. Hoemann",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T20:55:04.639172"
+  },
+  "key": "/authors/OL1194954A",
+  "birth_date": "1952",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Sherman M. Stanage",
+  "personal_name": "Sherman M. Stanage",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T20:55:25.065511"
+  },
+  "key": "/authors/OL1194998A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Marta Sau0301nchez",
+  "personal_name": "Marta Sau0301nchez",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T20:57:30.802713"
+  },
+  "key": "/authors/OL1195290A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Beatrice O. Freeman",
+  "personal_name": "Beatrice O. Freeman",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T20:58:05.853472"
+  },
+  "key": "/authors/OL1195395A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Workshop on Large Scale Computational Device Modeling (1985 Naperville, Ill.)",
+  "key": "/authors/OL1195904A",
+  "revision": 1
+}{
+  "name": "Wayne Stier",
+  "personal_name": "Wayne Stier",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T21:06:38.737004"
+  },
+  "key": "/authors/OL1196686A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Dutch Linguistics Colloquium (1985 University of California, Berkeley)",
+  "key": "/authors/OL1197120A",
+  "revision": 1
+}{
+  "name": "Duane Crowley",
+  "personal_name": "Duane Crowley",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T21:09:59.773103"
+  },
+  "key": "/authors/OL1197285A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Barnard, Robert",
+  "personal_name": "Barnard, Robert",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "key": "/authors/OL1197366A",
+  "birth_date": "1960",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 1
+}{
+  "name": "Joan Ellen Foyder",
+  "personal_name": "Joan Ellen Foyder",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T21:14:07.279484"
+  },
+  "key": "/authors/OL1198019A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "George Schnucker",
+  "personal_name": "George Schnucker",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T21:14:16.275129"
+  },
+  "key": "/authors/OL1198055A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Special Symposium on Critical Emerging Issues in Biomedical Engineering (1986 Dallas, Tex.)",
+  "key": "/authors/OL1198150A",
+  "revision": 1
+}{
+  "name": "Carolyn DiPaolo",
+  "personal_name": "Carolyn DiPaolo",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T21:17:10.350195"
+  },
+  "key": "/authors/OL1198648A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Karl Hirschbold",
+  "personal_name": "Karl Hirschbold",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T21:17:17.078854"
+  },
+  "key": "/authors/OL1198684A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Annie Wakeman Lathrop",
+  "personal_name": "Annie Wakeman Lathrop",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T21:17:26.822603"
+  },
+  "key": "/authors/OL1198716A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Bruce J. Wright-Consultants.",
+  "key": "/authors/OL1198877A",
+  "revision": 1
+}{
+  "name": "Pat Perryman",
+  "personal_name": "Pat Perryman",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T21:18:23.873568"
+  },
+  "key": "/authors/OL1198932A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Desmond Greig",
+  "personal_name": "Desmond Greig",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T21:19:25.606707"
+  },
+  "key": "/authors/OL1199180A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Luciano Rou0301mulo Teu0301llez Ramiu0301rez",
+  "personal_name": "Luciano Rou0301mulo Teu0301llez Ramiu0301rez",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T21:19:42.440846"
+  },
+  "key": "/authors/OL1199229A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Jeffrey S. Batoff",
+  "personal_name": "Jeffrey S. Batoff",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T21:19:57.005004"
+  },
+  "key": "/authors/OL1199265A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Sjef Houppermans",
+  "personal_name": "Sjef Houppermans",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T21:20:17.664123"
+  },
+  "key": "/authors/OL1199346A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Seu0301minaire des techniciens sur la promotion de l'habitat rural au Seu0301neu0301gal (1979 C.N.F.A. de Rufisque)",
+  "key": "/authors/OL1200406A",
+  "revision": 1
+}{
+  "name": "Pierre Fabri",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "death_date": "1515",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2012-06-07T06:39:53.483592"
+  },
+  "latest_revision": 4,
+  "key": "/authors/OL1200525A",
+  "birth_date": "fl. 1483",
+  "personal_name": "Pierre Fabri",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 4
+}{
+  "name": "V. Z. Roiu0306zen",
+  "personal_name": "V. Z. Roiu0306zen",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T21:25:37.913613"
+  },
+  "key": "/authors/OL1200569A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Wilhelm Ruckdeschel",
+  "personal_name": "Wilhelm Ruckdeschel",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T21:25:49.782822"
+  },
+  "key": "/authors/OL1200640A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Alatorre, Manuel R.",
+  "personal_name": "Alatorre, Manuel R.",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "key": "/authors/OL1201539A",
+  "birth_date": "1957",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 1
+}{
+  "name": "Ivanov, Kiril d-r, k.m.n.",
+  "title": "d-r, k.m.n.",
+  "personal_name": "Ivanov, Kiril",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "key": "/authors/OL1201575A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 1
+}{
+  "name": "W. Doris Stallings",
+  "personal_name": "W. Doris Stallings",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T21:29:25.645963"
+  },
+  "key": "/authors/OL1201636A",
+  "birth_date": "1930",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Alfredo Vau0301zquez Cobo",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "death_date": "1941",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2012-06-06T23:08:24.958304"
+  },
+  "latest_revision": 3,
+  "key": "/authors/OL1201801A",
+  "birth_date": "1869",
+  "personal_name": "Alfredo Vau0301zquez Cobo",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 3
+}{
+  "name": "Chantal de Gournay",
+  "personal_name": "Chantal de Gournay",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T21:30:38.085797"
+  },
+  "key": "/authors/OL1201962A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Vlasov, A. A.",
+  "personal_name": "Vlasov, A. A.",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "key": "/authors/OL1202417A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 1
+}{
+  "name": "Shishkin, V. A.",
+  "personal_name": "Shishkin, V. A.",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "key": "/authors/OL1202512A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 1
+}{
+  "name": "Payne, Robert",
+  "personal_name": "Payne, Robert",
+  "death_date": "1982",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-27T16:51:36.200765"
+  },
+  "key": "/authors/OL120265A",
+  "birth_date": "1911",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Jean Pierre Bodmer",
+  "personal_name": "Jean Pierre Bodmer",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T21:33:16.953275"
+  },
+  "key": "/authors/OL1202691A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Simon Flem Devold",
+  "personal_name": "Simon Flem Devold",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T21:34:00.310069"
+  },
+  "key": "/authors/OL1202866A",
+  "birth_date": "1929",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Per Erik Borge",
+  "personal_name": "Per Erik Borge",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T21:34:35.948817"
+  },
+  "key": "/authors/OL1202985A",
+  "birth_date": "1948",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Enrique de Gandu00eda",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "personal_name": "Enrique de Gandu00eda",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2009-05-22T08:05:36.156786"
+  },
+  "latest_revision": 3,
+  "key": "/authors/OL120306A",
+  "birth_date": "1906",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 3
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "American Institute of Certified Public Accountants. Special Task Force on Audits of Repurchase Securities Transactions.",
+  "key": "/authors/OL1203182A",
+  "revision": 1
+}{
+  "name": "Augusto Germau0301n Orihuela",
+  "personal_name": "Augusto Germau0301n Orihuela",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T21:35:32.864821"
+  },
+  "key": "/authors/OL1203267A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Carolina Poncet y de Cau0301rdenas",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "death_date": "1969",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2012-06-06T23:52:03.108376"
+  },
+  "latest_revision": 3,
+  "key": "/authors/OL1203999A",
+  "birth_date": "1879",
+  "personal_name": "Carolina Poncet y de Cau0301rdenas",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 3
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "International School & Workshop on Plasma Astrophysics (1984 Varenna, Italy)",
+  "key": "/authors/OL1204095A",
+  "revision": 1
+}{
+  "name": "Michael Nitzschke",
+  "personal_name": "Michael Nitzschke",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T21:39:46.528679"
+  },
+  "key": "/authors/OL1204190A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Loula D. Kotsetsou",
+  "personal_name": "Loula D. Kotsetsou",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T21:44:37.154062"
+  },
+  "key": "/authors/OL1205386A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Evgeniiu0306 Filippovich Trushchenko",
+  "personal_name": "Evgeniiu0306 Filippovich Trushchenko",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T21:46:38.779951"
+  },
+  "key": "/authors/OL1205838A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Theu0304seas Tsiatsikas",
+  "personal_name": "Theu0304seas Tsiatsikas",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T21:50:59.915295"
+  },
+  "key": "/authors/OL1206835A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Sigurd Hansson",
+  "personal_name": "Sigurd Hansson",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T21:51:08.785761"
+  },
+  "key": "/authors/OL1206879A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Agneu0304 Diamantopoulou",
+  "personal_name": "Agneu0304 Diamantopoulou",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T21:51:32.419911"
+  },
+  "key": "/authors/OL1206970A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Richard Singelenberg",
+  "personal_name": "Richard Singelenberg",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T21:51:39.98647"
+  },
+  "key": "/authors/OL1207010A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Inga Wintzell",
+  "personal_name": "Inga Wintzell",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T21:52:04.804962"
+  },
+  "key": "/authors/OL1207115A",
+  "birth_date": "1924",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Frantisu030cek Juriu0301k",
+  "personal_name": "Frantisu030cek Juriu0301k",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T21:52:15.462093"
+  },
+  "key": "/authors/OL1207159A",
+  "birth_date": "1923",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "A. I. Babkov",
+  "personal_name": "A. I. Babkov",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T21:52:49.336203"
+  },
+  "key": "/authors/OL1207296A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Gau0308rtner, Peter Dr.-Ing.",
+  "title": "Dr.-Ing.",
+  "personal_name": "Gau0308rtner, Peter",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "key": "/authors/OL1207599A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 1
+}{
+  "name": "Chandra, Rai Govind.",
+  "personal_name": "Chandra, Rai Govind.",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "key": "/authors/OL1207A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 1
+}{
+  "name": "Vsesoiu0361uznaiu0361a konferentu0361siiu0361a po metalloorganicheskou012d khimii (3rd 1985? Ufa, R.S.F.S.R.?)",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2017-11-22T03:52:57.146376"
+  },
+  "latest_revision": 2,
+  "key": "/authors/OL1208046A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Kaarina Luodelahti",
+  "personal_name": "Kaarina Luodelahti",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T21:56:16.3832"
+  },
+  "key": "/authors/OL1208129A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "L. A. Vorobu02b9ev",
+  "personal_name": "L. A. Vorobu02b9ev",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T21:56:29.546754"
+  },
+  "key": "/authors/OL1208165A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Siegfried Balleis",
+  "personal_name": "Siegfried Balleis",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T22:00:21.74646"
+  },
+  "key": "/authors/OL1208947A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Manole Neagoe",
+  "personal_name": "Manole Neagoe",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T23:51:55.695896"
+  },
+  "key": "/authors/OL1209276A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Thomasin von Zerclaere",
+  "title": "von Zerclaere",
+  "death_date": "ca. 1235.",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "key": "/authors/OL1209430A",
+  "birth_date": "ca. 1186",
+  "personal_name": "Thomasin",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 1
+}{
+  "name": "N. I. Telu02b9nov",
+  "personal_name": "N. I. Telu02b9nov",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T22:03:42.761649"
+  },
+  "key": "/authors/OL1209728A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "New Jersey. Dept. of Institutions and Agencies.",
+  "key": "/authors/OL121015A",
+  "revision": 1
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Goiau0301s (Brazil : State). Assembleu0301ia Legislativa.",
+  "key": "/authors/OL1210191A",
+  "revision": 1
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Council of Engineering and Scientific Society Executives. Meeting",
+  "key": "/authors/OL1210317A",
+  "revision": 1
+}{
+  "name": "Willem Roosegaarde Bisschop",
+  "personal_name": "Willem Roosegaarde Bisschop",
+  "death_date": "22 Feb 1944",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-10-30T11:47:05.013769"
+  },
+  "key": "/authors/OL121110A",
+  "birth_date": "31 Dec 1866",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 3
+}{
+  "name": "Bert Joos",
+  "personal_name": "Bert Joos",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T22:10:17.024334"
+  },
+  "key": "/authors/OL1211462A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Wen, Zhao.",
+  "personal_name": "Wen, Zhao.",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "key": "/authors/OL1211501A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 1
+}{
+  "name": "Franz Merz",
+  "personal_name": "Franz Merz",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T22:12:15.328282"
+  },
+  "key": "/authors/OL1211839A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Philippe Bonnin",
+  "personal_name": "Philippe Bonnin",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T22:12:26.703803"
+  },
+  "key": "/authors/OL1211875A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Jonsson, Bo",
+  "personal_name": "Jonsson, Bo",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "key": "/authors/OL1212540A",
+  "birth_date": "1939",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 1
+}{
+  "name": "Francu0327ois Pelletier",
+  "personal_name": "Francu0327ois Pelletier",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-09-05T23:29:59.55697"
+  },
+  "key": "/authors/OL1212625A",
+  "birth_date": "1957",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 3
+}{
+  "name": "Tom Bostelle",
+  "personal_name": "Tom Bostelle",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T22:15:23.861016"
+  },
+  "key": "/authors/OL1212669A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Cen, Kailun.",
+  "personal_name": "Cen, Kailun.",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "key": "/authors/OL1212706A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 1
+}{
+  "name": "E. M. Kviu0361atkovskiu012d",
+  "personal_name": "E. M. Kviu0361atkovskiu012d",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2017-11-22T03:53:00.918602"
+  },
+  "latest_revision": 3,
+  "key": "/authors/OL1212971A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 3
+}{
+  "name": "Charlotte Hall-Meier",
+  "personal_name": "Charlotte Hall-Meier",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T22:16:55.899917"
+  },
+  "key": "/authors/OL1213099A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "William N. McHarg",
+  "personal_name": "William N. McHarg",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T22:18:30.362259"
+  },
+  "key": "/authors/OL1213415A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Nagata, Kiyotoshi",
+  "personal_name": "Nagata, Kiyotoshi",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "key": "/authors/OL1213459A",
+  "birth_date": "1925",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 1
+}{
+  "name": "E. P. Prokofu02b9ev",
+  "personal_name": "E. P. Prokofu02b9ev",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T22:19:26.988984"
+  },
+  "key": "/authors/OL1213510A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Donald J. Sublette",
+  "personal_name": "Donald J. Sublette",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T22:20:26.455488"
+  },
+  "key": "/authors/OL1213796A",
+  "birth_date": "1903",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Orlando Carracedo",
+  "personal_name": "Orlando Carracedo",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T22:20:43.316941"
+  },
+  "key": "/authors/OL1213882A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Rixford Kinney Snyder",
+  "personal_name": "Rixford Kinney Snyder",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-09-09T09:15:58.470924"
+  },
+  "key": "/authors/OL121396A",
+  "birth_date": "1908",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Ou0304no, Zassou0304shi",
+  "personal_name": "Ou0304no, Zassou0304shi",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "key": "/authors/OL1214120A",
+  "birth_date": "1932",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 1
+}{
+  "name": "Christian Hernandez",
+  "personal_name": "Christian Hernandez",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T22:21:59.662965"
+  },
+  "key": "/authors/OL1214285A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Ida Miriam Bobula",
+  "personal_name": "Ida Miriam Bobula",
+  "death_date": "1981",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-09-22T12:10:35.088538"
+  },
+  "key": "/authors/OL1214366A",
+  "birth_date": "1900",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 3
+}{
+  "name": "Kenneth Garside",
+  "personal_name": "Kenneth Garside",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T22:27:03.407932"
+  },
+  "key": "/authors/OL1215686A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Tokuta, Kou0304jun",
+  "personal_name": "Tokuta, Kou0304jun",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "key": "/authors/OL1215800A",
+  "birth_date": "1915",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 1
+}{
+  "name": "Shou0304ji, Sensui",
+  "personal_name": "Shou0304ji, Sensui",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "key": "/authors/OL1216290A",
+  "birth_date": "1903",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 1
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Wissenschaftlich-Technisches Kolloquium "25JahreBrennstoffinstitutFreiberg" (1981 Freiberg, Germany)",
+  "key": "/authors/OL1216395A",
+  "revision": 1
+}{
+  "name": "R. Forbes Hirsch",
+  "personal_name": "R. Forbes Hirsch",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T22:32:02.94589"
+  },
+  "key": "/authors/OL1216904A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "R. K. Prabhu",
+  "personal_name": "R. K. Prabhu",
+  "death_date": "1966,",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-09-10T11:02:25.668255"
+  },
+  "key": "/authors/OL12178A",
+  "birth_date": "1883",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Werner Hafen",
+  "personal_name": "Werner Hafen",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T22:35:52.974702"
+  },
+  "key": "/authors/OL1217954A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Xun Ouyang",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "death_date": "641",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2017-03-31T09:07:15.031088"
+  },
+  "latest_revision": 4,
+  "key": "/authors/OL1217998A",
+  "birth_date": "557",
+  "personal_name": "Xun Ouyang",
+  "remote_ids": {
+    "viaf": "28408469",
+    "wikidata": "Q1207679"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 4
+}{
+  "name": "Modikwe Dikobe",
+  "personal_name": "Modikwe Dikobe",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T22:36:22.358975"
+  },
+  "key": "/authors/OL1218083A",
+  "birth_date": "1913",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Chen, Shoupeng.",
+  "personal_name": "Chen, Shoupeng.",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "key": "/authors/OL1218168A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 1
+}{
+  "name": "Carlos L. Lizano P.",
+  "personal_name": "Carlos L. Lizano P.",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T22:37:00.309224"
+  },
+  "key": "/authors/OL1218270A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Khoreu0304n Nar-Peu0304y",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "death_date": "1892",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2012-06-07T09:02:31.291646"
+  },
+  "latest_revision": 3,
+  "key": "/authors/OL1218335A",
+  "birth_date": "1832",
+  "personal_name": "Khoreu0304n Nar-Peu0304y",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 3
+}{
+  "name": "Anthony L. Lehman",
+  "personal_name": "Anthony L. Lehman",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T22:37:22.321853"
+  },
+  "key": "/authors/OL1218379A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Zbigniew Jacyna-Onyszkiewicz",
+  "personal_name": "Zbigniew Jacyna-Onyszkiewicz",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T22:37:36.640032"
+  },
+  "key": "/authors/OL1218443A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Conrad G. Keyes",
+  "personal_name": "Conrad G. Keyes",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T22:37:57.94951"
+  },
+  "key": "/authors/OL1218564A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Luciana Cabella Pisu",
+  "personal_name": "Luciana Cabella Pisu",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T22:40:06.426181"
+  },
+  "key": "/authors/OL1219138A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Rodolfo A. Caberoy",
+  "personal_name": "Rodolfo A. Caberoy",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T22:40:41.525363"
+  },
+  "key": "/authors/OL1219273A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Gymnasium zu Elbing.",
+  "key": "/authors/OL1219400A",
+  "revision": 1
+}{
+  "name": "Long, Yuezhou.",
+  "personal_name": "Long, Yuezhou.",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "key": "/authors/OL1220026A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 1
+}{
+  "name": "Ignacio de Juan",
+  "personal_name": "Ignacio de Juan",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T22:45:07.194198"
+  },
+  "key": "/authors/OL1220358A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Dik Crum",
+  "personal_name": "Dik Crum",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T22:45:25.237164"
+  },
+  "key": "/authors/OL1220394A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Knights Templar (Masonic order). Grand Commandery (Wis.)",
+  "key": "/authors/OL1220413A",
+  "revision": 1
+}{
+  "name": "Yashvant Savailal Pandya",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "death_date": "1955",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2012-06-06T23:31:46.188899"
+  },
+  "latest_revision": 3,
+  "key": "/authors/OL12206A",
+  "birth_date": "1906",
+  "personal_name": "Yashvant Savailal Pandya",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 3
+}{
+  "name": "Haga, Yasushi",
+  "personal_name": "Haga, Yasushi",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "key": "/authors/OL1220754A",
+  "birth_date": "1928",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 1
+}{
+  "name": "Martine Arnold-Palussieu0301re",
+  "personal_name": "Martine Arnold-Palussieu0301re",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T22:46:47.022695"
+  },
+  "key": "/authors/OL1220798A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Eduard Kulke",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "death_date": "1897",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2012-06-07T09:08:54.386745"
+  },
+  "latest_revision": 3,
+  "key": "/authors/OL1221090A",
+  "birth_date": "1831",
+  "personal_name": "Eduard Kulke",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 3
+}{
+  "name": "Liu, Changkai.",
+  "personal_name": "Liu, Changkai.",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "key": "/authors/OL1221195A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 1
+}{
+  "name": "Gerhard I. Peters",
+  "personal_name": "Gerhard I. Peters",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T22:51:43.009035"
+  },
+  "key": "/authors/OL1222073A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Fuma, Kiyoshi",
+  "personal_name": "Fuma, Kiyoshi",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "key": "/authors/OL1222338A",
+  "birth_date": "1922",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 1
+}{
+  "name": "Fukatsu, Tadashi",
+  "personal_name": "Fukatsu, Tadashi",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "key": "/authors/OL1222600A",
+  "birth_date": "1913",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 1
+}{
+  "name": "Hanau0301k, Katalin.",
+  "personal_name": "Hanau0301k, Katalin.",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "key": "/authors/OL1222886A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 1
+}{
+  "name": "Ivan Maksimovich Vladychenko",
+  "personal_name": "Ivan Maksimovich Vladychenko",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T22:55:46.951954"
+  },
+  "key": "/authors/OL1223243A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Wielhorski",
+  "personal_name": "Wielhorski",
+  "death_date": "1804?",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "key": "/authors/OL1223364A",
+  "birth_date": "ca. 1716",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 1
+}{
+  "name": "Maciej z Miechowa",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "death_date": "1523",
+  "alternate_names": [
+    "Mathias Miechov",
+    "Mathias de Miechov"
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2017-03-31T14:58:10.669703"
+  },
+  "latest_revision": 4,
+  "key": "/authors/OL1223470A",
+  "birth_date": "1457?",
+  "title": "z Miechowa",
+  "personal_name": "Maciej",
+  "revision": 4,
+  "type": {
+    "key": "/type/author"
+  },
+  "remote_ids": {
+    "viaf": "7515044",
+    "wikidata": "Q2452397"
+  }
+}{
+  "name": "Sebastiau0303o de Lorena",
+  "personal_name": "Sebastiau0303o de Lorena",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T22:56:42.279849"
+  },
+  "key": "/authors/OL1223535A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}{
+  "name": "Chocolate Contradancu0327as",
+  "personal_name": "Chocolate Contradancu0327as",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-18T22:56:48.506126"
+  },
+  "key": "/authors/OL1223579A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}
