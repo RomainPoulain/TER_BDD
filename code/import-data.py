@@ -52,17 +52,6 @@ for record in csv.DictReader(open(INPUT_FILE, 'r'), fieldnames=COLUMNS, delimite
     else:
         uris = None
 
-    alternate_names = ''
-
-    alt = []
-    if 'alternate_names' in j:
-        for n in j['alternate_names']:
-            alt.append(n)
-
-        alternate_names = str(alt)
-
-    else:
-        alternate_names = None
 
     maybe = []
     title = []
@@ -81,7 +70,7 @@ for record in csv.DictReader(open(INPUT_FILE, 'r'), fieldnames=COLUMNS, delimite
         links = None
         links_title = None
 
-    c.execute('INSERT INTO AUTHORS VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)',
+    c.execute('INSERT INTO AUTHORS VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)',
               [record['key'],
                j.get('name'),
                j.get('eastern_order'),
@@ -89,7 +78,6 @@ for record in csv.DictReader(open(INPUT_FILE, 'r'), fieldnames=COLUMNS, delimite
                j.get('enumeration'),
                j.get('title'),
                bio,
-               alternate_names,
                uris,
                j.get('location'),
                j.get('birth_date'),
@@ -98,5 +86,11 @@ for record in csv.DictReader(open(INPUT_FILE, 'r'), fieldnames=COLUMNS, delimite
                j.get('wikipedia'),
                links,
                links_title])
+
+    if 'alternate_names' in j:
+        for alt_name in j['alternate_names']:
+            c.execute('INSERT INTO AUTHOR_ALT_NAME VALUES (?,?)',
+                      [record['key'], alt_name])
+
 db.commit()
 

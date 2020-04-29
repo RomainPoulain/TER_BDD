@@ -1,27 +1,53 @@
 import sqlite3
 import nltk
+import sys
+
+
+print(nltk.edit_distance('slawek'.lower(),'Sławek'.lower()))
+print(nltk.edit_distance('slawek staworko','staworko slawek')) #8
+print('slawek p. staworko, dr. hdr'.replace('.',' ').replace(',',' ').split()) #['slawek', 'p', 'staworko', 'dr', 'hdr']
+
+print(nltk.jaccard_distance(set('slawek staworko'.split()), set('staworko slawek'.split()))) # 0.0 
+ # {'slawek, 'staworko'}
+ # {'staworko', 'slawek'}
+
+
+print(set('slawek staworko'))
+#print(nltk.jaccard_distance(set('slawek staworko'.split()), set('staworko slawek'.split()))) # 0.0 
+
+
+sys.exit(1)
+
+
+
+
+
 
 
 DB_FILE = '../bdd/databases.db'
 db = sqlite3.connect(DB_FILE)
+db.row_factory = sqlite3.Row
 c = db.cursor()
 
 
 valeur = []
 listee = []
-req = "select * from AUTHORS"
+req = "select ID, NAME, PERSONAL_NAME from AUTHORS"
 result = c.execute(req)
 print(type(result))
 rows = c.fetchall()
 for rowz in rows:
-    listee.append((' {1} '.format(rowz[0], rowz[3], )))
+    listee.append((' {1} '.format(rowz['ID'], rowz['PERSONAL_NAME'], )))
 for row in rows:
-    valeur.append((' {1} '.format(row[0], row[1], )))
+    valeur.append((' {1} '.format(row['ID'], row['NAME'], )))
 
 x = 0
 liste = []
 for x in range(len(valeur)):
+    if valeur[x] is None:
+        continue
     for i in range(x + 1, len(valeur)):
+        
         ed = nltk.edit_distance((valeur[x]), (valeur[i]))
         dico = {"titre": valeur[x], "titre_compare": valeur[i], "distance": ed, "x": x, "i": i}
         a = ((dico["titre"]), "&&", (dico["titre_compare"]), "&&", (dico["distance"]), (dico["x"]), (dico["i"]))
@@ -35,6 +61,10 @@ for x in range(len(valeur)):
                   ed2)
 
 # Jaccard distance
+
+
+
+
 
 for x in range(len(valeur)):
     for i in range(x + 1, len(valeur)):
