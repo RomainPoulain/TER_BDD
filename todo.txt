@@ -1,0 +1,24 @@
+1. nom de fichiers uniformes
+
+2. ecrire une fonction dist_author(author_id_1,author_id_2) :
+   * dist_name(a1,a2) compare (edit_distance) des noms (y compris les alternatives, on prends la distance minimale) 
+     - retourne une valeur dans [0;1] 
+       la normalization  dist(x,y) / (|x|+|y|)
+   * dist_date(a1,a2) compare les dates de naissance et de decess 
+        * conversion vers int 
+        * si la date est inconnue -> la distance entre les date est inconnue 
+     - retourne une valeur dans [0;1] ou None
+   * comment combiner les deux valeurs 
+     dist_author(a1,a2) = dist_name(a1,a2) */+/- dist_date(a1,a2)
+
+                         | dist_name(a1,a2) < 0.2 | dist_name(a1,a2) > 0.6 
+                         |   a1.name ~ a2.name    | a1.name !~ a2.name
+ ========================+==========================================
+  a1.date ~ a2.date      |                        |
+  dist_date(a1,a2) < 0.2 |     similaire   < 0.2  |  different
+ ========================+==========================================
+  a1.date !~ a2.date     |        ????            |
+  dist_date(a1,a2) < 0.2 |                        |  different  > 0.6
+
+
+3. analyser les relations edition et works pour voir comment comparer leur elements
