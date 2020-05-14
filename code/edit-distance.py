@@ -11,13 +11,13 @@ from math import exp
 # print(nltk.edit_distance('slawek staworko','staworko slawek')) #8
 # print('slawek p. staworko, dr. hdr'.replace('.',' ').replace(',',' ').split()) #['slawek', 'p', 'staworko', 'dr', 'hdr']
 
-# print(nltk.jaccard_distance(set('slawek staworko'.split()), set('staworko slawek'.split()))) # 0.0 
+# print(nltk.jaccard_distance(set('slawek staworko'.split()), set('staworko slawek'.split()))) # 0.0
 #  # {'slawek, 'staworko'}
 #  # {'staworko', 'slawek'}
 
 
 # print(set('slawek staworko'))
-# #print(nltk.jaccard_distance(set('slawek staworko'.split()), set('staworko slawek'.split()))) # 0.0 
+# #print(nltk.jaccard_distance(set('slawek staworko'.split()), set('staworko slawek'.split()))) # 0.0
 
 
 # sys.exit(1)
@@ -25,28 +25,38 @@ from math import exp
 # '''
 
 
-
-
 COLUMNS = ['type', 'key', 'revision', 'last_modified', 'json']
 INPUT_FILE = 'small-authors.txt'
-DB_FILE = 'databases.db'
+DB_FILE = '../bdd/databases.db'
 db = sqlite3.connect(DB_FILE)
 db.row_factory = sqlite3.Row
 c = db.cursor()
 
+names = []
+birth_dates = []
+death_dates = []
+tab_id = []
+req = "select ID, NAME, BIRTH_DATE, DEATH_DATE from AUTHORS"
+result = c.execute(req)
+rows = c.fetchall()
+for rowz in rows:
+    tab_id.append((' {0} '.format(rowz['ID'], )))
+for rowz in rows:
+    birth_dates.append((' {1} '.format(rowz['ID'], rowz['BIRTH_DATE'], )))
+for row in rows:
+    names.append((' {1} '.format(row['ID'], row['NAME'], )))
+for rowz in rows:
+    death_dates.append((' {1} '.format(rowz['ID'], rowz['DEATH_DATE'], )))
 
-# names = []
-# birth_dates = []
-# death_dates = []
-# req = "select ID, NAME, BIRTH_DATE, DEATH_DATE from AUTHORS"
-# result = c.execute(req)
-# rows = c.fetchall()
-# for rowz in rows:
-#     birth_dates.append((' {1} '.format(rowz['ID'], rowz['BIRTH_DATE'], )))
-# for row in rows:
-#     names.append((' {1} '.format(row['ID'], row['NAME'], )))
-# for rowz in rows:
-#     death_dates.append((' {1} '.format(rowz['ID'], rowz['DEATH_DATE'], )))
+
+tab_id2 = []
+req2 = "select ID from AUTHORS"
+result = c.execute(req)
+for i in range(0,1000):
+    try:
+        tab_id2.append(c.fetchone()['ID'])
+    except: TypeError
+
 # '''
 # x = 0
 # liste = []
@@ -54,7 +64,7 @@ c = db.cursor()
 #     if names[x] is None:
 #         continue
 #     for i in range(x + 1, len(names)):
-        
+
 #         ed = nltk.edit_distance((names[x]), (names[i]))
 #         dico = {"titre": names[x], "titre_compare": names[i], "distance": ed, "x": x, "i": i}
 #         a = ((dico["titre"]), "&&", (dico["titre_compare"]), "&&", (dico["distance"]), (dico["x"]), (dico["i"]))
@@ -68,9 +78,6 @@ c = db.cursor()
 #             #      ed2)
 
 # # Jaccard distance
-
-
-
 
 
 # for x in range(len(valeur)):
@@ -90,24 +97,160 @@ c = db.cursor()
 # '''
 
 
+def get_author_name(author_id):
+    c.execute("SELECT NAME FROM AUTHORS WHERE ID = ?",(author_id,))
+    try:
+        d = c.fetchone()['NAME']
+        return d
+    except: TypeError
+
+#print(get_author_name('/authors/OL1000057A'))
+#print(get_author_name('/about/oregon'))
+
+def get_author_alt_names(author_id):
+    db.execute("SELECT NAME FROM AUTHOR_ALT_NAME WHERE ID = ?", (author_id,))
+    try:
+        d = c.fetchone()['NAME']
+        return d
+    except: TypeError
 
 
-
-
-# def get_author_name(author_id):
-#     db.exectue("SELECT NAME FROM AUTHOR WHERE ID = ?",(author_id,))
-#     ...
-
-# def get_author_alt_names(author_id):
-#     ...
-
-
-def dist_author_name(author_id_1,author_id_2):
+def dist_author_name(author_id_1, author_id_2):
+    result = 0
     author_name_1 = get_author_name(author_id_1)
     author_name_2 = get_author_name(author_id_2)
+    #print(author_name_1)
+    if author_name_1 is None or author_name_2 is None:
+        return 1
+    # author_alt_names_1 = get_author_alt_names(author_id_1)
+    # author_alt_names_2 = get_author_alt_names(author_id_2)
     ed = nltk.edit_distance(author_name_1, author_name_2)
+    # ed2 = nltk.edit_distance(author_alt_names_1, author_alt_names_2)
+    try:
+        result = ed / (abs(len(author_name_1)) + abs(len(author_name_2)))
+    except:ZeroDivisionError
+    return result
 
-    
+#print(dist_author_name('/authors/OL1000057A','/authors/OL1027674A'))
+
+def sigmoid(x):
+    return 1 / (1 + exp(-x))
+
+
+def dist_year(y1, y2):
+    if not y1 or not y2:
+        return None
+    return (2 * sigmoid(abs(y2 - y1) / 4) - 1)
+
+# input: une date comme  string avec toute les variations qu'on peut trouver dans la bd
+# output: une date de type date ou None is la date d'entrée est mal formée ou manquante
+def parse_db_str(d_str):
+    if not d_str:
+        return None
+
+    try:
+        return datetime.strptime(d_str, '%Y').year
+    except:
+        pass
+
+    try:
+        return datetime.strptime(d_str, '%Y-%m-%d').year
+
+    except:
+        pass
+
+    return None
+
+
+if __name__ == "__main__":
+    assert parse_db_str('1990') == 1990
+    assert parse_db_str('1990-04-30') == 1990
+
+
+
+
+def get_author_birth_date(author_id):
+    c.execute("SELECT BIRTH_DATE FROM AUTHORS WHERE ID=?", (author_id,))
+    try:
+        d_str = c.fetchone()['BIRTH_DATE']
+        return parse_db_str(d_str)
+    except: TypeError
+
+
+def get_author_death_date(author_id):
+    c.execute("SELECT DEATH_DATE FROM AUTHORS WHERE ID=?", (author_id,))
+    try:
+        d_str = c.fetchone()['DEATH_DATE']
+        return parse_db_str(d_str)
+    except: TypeError
+
+
+def dist_author_date(author_id_1, author_id_2):
+    author_date_1 = get_author_birth_date(author_id_1)
+    author_date_2 = get_author_birth_date(author_id_2)
+    author_date_death_1 = get_author_death_date(author_id_1)
+    author_date_death_2 = get_author_death_date(author_id_2)
+    if author_date_1 is None or author_date_2 is None:
+        return 1
+    return dist_year(author_date_1, author_date_2)
+
+
+def dist_author(author_id_1, author_id_2):
+    if dist_author_name(author_id_1, author_id_2) < 0.3:
+        author_name_1 = get_author_name(author_id_1)
+        author_name_2 = get_author_name(author_id_2)
+        author_date_1 = get_author_birth_date(author_id_1)
+        author_date_2 = get_author_birth_date(author_id_2)
+        print("SIMILAIRE ",author_name_1, " ",author_name_2, " distance = ", dist_author_name(author_id_1, author_id_2))
+        if dist_author_date(author_id_1, author_id_2) < 0.3:
+            print("SIMILAIRE ",author_date_1, " ",author_date_2, " distance = ", dist_author_date(author_id_1, author_id_2))
+            print("Resultat = SIMILAIRE")
+        else:
+            print("DIFFERENT ", author_date_1, " ", author_date_2, " distance = ",dist_author_date(author_id_1, author_id_2))
+            print("Resultat = DIFFERENT")
+        #if dist_author_date(author_id_1, author_id_2) < 0.2:
+        #    print("SIMILAIRE")
+        #else:
+        #    print("Name similaire pas date")
+    #if dist_author_name(author_id_1, author_id_2) > 0.6:
+    #    print("Name different")
+    #if dist_author_date(author_id_1, author_id_2) > 0.6:
+    #    print("Date differente")
+
+for x in range(len(tab_id2)):
+    for i in range(x + 1, len(tab_id2)):
+        #print(tab_id[x],tab_id[i])
+        #print(dist_author_name(tab_id2[x],tab_id2[i]))
+        #print(get_author_name(tab_id2[x]))
+        dist_author(tab_id2[x],tab_id2[i])
+
+'''
+for x in range(len(tab_id2)):
+    for i in range(x + 1, len(tab_id2)):
+        #print(tab_id[x],tab_id[i])
+        #dist_author_name(tab_id[x],tab_id[i])
+        print(dist_author_date(tab_id2[x],tab_id2[i]))
+'''
+
+def get_author_birth_date(author_id):
+    c.execute("SELECT BIRTH_DATE FROM AUTHOR WHERE ID=?", (author_id,))
+    d_str = c.fetchOne()['BIRTH_DATE']
+    return parse_db_str(d_str)
+
+
+# def get_author_death_date(author_id):
+#     ...
+
+'''
+if __name__ == '__main__':
+    print(dist_year(1999, 1993))
+    print(dist_year(1990, 1993))
+    print(dist_year(1990, 1991))
+    # assert dist_date(datetime.strptime('1990','%Y'),datetime.strptime('1990','%Y')) == 0.0
+    # assert dist_date(datetime.strptime('1990','%Y'),datetime.strptime('1990-01-01','%Y-%d-%m')) <= 0.1
+    # print(dist_date(datetime.strptime('1990','%Y'),datetime.strptime('1990-30-04','%Y-%d-%m')))
+    # print(dist_date(datetime.strptime('1990','%Y'),datetime.strptime('1991-30-04','%Y-%d-%m')))
+    # print(dist_date(datetime.strptime('1990','%Y'),None))
 
 tab_alt_names = []
 def dist_name(author1,author2):
@@ -128,69 +271,7 @@ def dist_name(author1,author2):
                 #    for i in range(x + 1, alt_names):
                 #        ed2 = nltk.edit_distance(x, i)
     return ed/(abs(len(author1))+abs(len(author2)))
-
-
-def dist_author_date(author_id_1,author_id_2):
-    pass #....
-
-
-# input: une date comme  string avec toute les variations qu'on peut trouver dans la bd
-# output: une date de type date ou None is la date d'entrée est mal formée ou manquante 
-def parse_db_date(d_str):
-    if not d_str:
-        return None
-
-    try: 
-        return datetime.strptime(d_str,'%Y').year
-    except:
-        pass
-
-    try:
-        return datetime.strptime(d_str,'%Y-%m-%d').year
-        
-    except:
-        pass
-
-    return None
-
-
-if __name__ == "__main__":
-    assert parse_db_date('1990') == 1990
-    assert parse_db_date('1990-04-30') == 1990
-
-
-
-def get_author_birth_date(author_id):
-    c.execute("SELECT BIRTH_DATE FROM AUTHOR WHERE ID=?",(author_id,))
-    d_str = c.fetchOne()['BIRTH_DATE']
-    return parse_db_str(d_str)
-
-
-# def get_author_death_date(author_id):
-#     ...
-
-
-
-
-
-def sigmoid(x):
-    return 1/(1+exp(-x))
-
-def dist_year(y1,y2):
-    if not y1 or not y2:
-        return None
-    return (2*sigmoid(abs(y2-y1)/4)-1)
-
-if __name__ == '__main__':
-    print(dist_year(1999,1993))
-    print(dist_year(1990,1993))
-    print(dist_year(1990,1991))
-    # assert dist_date(datetime.strptime('1990','%Y'),datetime.strptime('1990','%Y')) == 0.0
-    # assert dist_date(datetime.strptime('1990','%Y'),datetime.strptime('1990-01-01','%Y-%d-%m')) <= 0.1
-    # print(dist_date(datetime.strptime('1990','%Y'),datetime.strptime('1990-30-04','%Y-%d-%m')))
-    # print(dist_date(datetime.strptime('1990','%Y'),datetime.strptime('1991-30-04','%Y-%d-%m')))
-    # print(dist_date(datetime.strptime('1990','%Y'),None))
-
+'''
 
 # def dist_date(author1,author2):
 #     date1 = ""
@@ -226,11 +307,6 @@ if __name__ == '__main__':
 #     return result
 
 
-
-
-
-
-
 # valeur = []
 # valeur2 = []
 # '''
@@ -249,7 +325,6 @@ if __name__ == '__main__':
 #         if dist_name(names[x],names[i]) < 0.3 and dist_name(names[x],names[i])!=None:
 #             print(dist_date(names[x],names[i]))
 # #for z in zip(valeur,valeur2):
-
 
 
 # def dist_author(author_id_1,author_id_2):
