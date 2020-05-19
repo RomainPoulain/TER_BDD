@@ -48,14 +48,15 @@ for row in rows:
 for rowz in rows:
     death_dates.append((' {1} '.format(rowz['ID'], rowz['DEATH_DATE'], )))
 
-
 tab_id2 = []
 req2 = "select ID from AUTHORS"
 result = c.execute(req)
-for i in range(0,1000):
+for i in range(0, 1000):
     try:
         tab_id2.append(c.fetchone()['ID'])
-    except: TypeError
+    except:
+        TypeError
+
 
 # '''
 # x = 0
@@ -98,40 +99,50 @@ for i in range(0,1000):
 
 
 def get_author_name(author_id):
-    c.execute("SELECT NAME FROM AUTHORS WHERE ID = ?",(author_id,))
+    c.execute("SELECT NAME FROM AUTHORS WHERE ID = ?", (author_id,))
     try:
         d = c.fetchone()['NAME']
         return d
-    except: TypeError
+    except TypeError:
+        return None
+
 
 #print(get_author_name('/authors/OL1000057A'))
 #print(get_author_name('/about/oregon'))
 
 def get_author_alt_names(author_id):
-    db.execute("SELECT NAME FROM AUTHOR_ALT_NAME WHERE ID = ?", (author_id,))
+    c.execute("SELECT NAME FROM AUTHOR_ALT_NAME WHERE ID_AUTHOR = ?", (author_id,))
     try:
         d = c.fetchone()['NAME']
         return d
-    except: TypeError
+    except TypeError:
+        return None
+
+
+#print(get_author_alt_names('/authors/OL1001542A'))
 
 
 def dist_author_name(author_id_1, author_id_2):
     result = 0
     author_name_1 = get_author_name(author_id_1)
     author_name_2 = get_author_name(author_id_2)
-    #print(author_name_1)
     if author_name_1 is None or author_name_2 is None:
-        return 1
-    # author_alt_names_1 = get_author_alt_names(author_id_1)
-    # author_alt_names_2 = get_author_alt_names(author_id_2)
+        print(author_name_1, " ", author_name_2)
+        return None
+    author_alt_names_1 = get_author_alt_names(author_id_1)
+    author_alt_names_2 = get_author_alt_names(author_id_2)
     ed = nltk.edit_distance(author_name_1, author_name_2)
-    # ed2 = nltk.edit_distance(author_alt_names_1, author_alt_names_2)
+    if author_alt_names_1 is not None:
+        ed2 = nltk.edit_distance(author_name_1, author_alt_names_1)
+        return ed2 / (abs(len(author_name_1)) + abs(len(author_alt_names_1)))
     try:
         result = ed / (abs(len(author_name_1)) + abs(len(author_name_2)))
-    except:ZeroDivisionError
+    except:
+        ZeroDivisionError
     return result
 
-#print(dist_author_name('/authors/OL1000057A','/authors/OL1027674A'))
+
+# print(dist_author_name('/authors/OL1000057A','/authors/OL1027674A'))
 
 def sigmoid(x):
     return 1 / (1 + exp(-x))
@@ -141,6 +152,7 @@ def dist_year(y1, y2):
     if not y1 or not y2:
         return None
     return (2 * sigmoid(abs(y2 - y1) / 4) - 1)
+
 
 # input: une date comme  string avec toute les variations qu'on peut trouver dans la bd
 # output: une date de type date ou None is la date d'entrée est mal formée ou manquante
@@ -167,14 +179,13 @@ if __name__ == "__main__":
     assert parse_db_str('1990-04-30') == 1990
 
 
-
-
 def get_author_birth_date(author_id):
     c.execute("SELECT BIRTH_DATE FROM AUTHORS WHERE ID=?", (author_id,))
     try:
         d_str = c.fetchone()['BIRTH_DATE']
         return parse_db_str(d_str)
-    except: TypeError
+    except TypeError:
+        return None
 
 
 def get_author_death_date(author_id):
@@ -182,7 +193,8 @@ def get_author_death_date(author_id):
     try:
         d_str = c.fetchone()['DEATH_DATE']
         return parse_db_str(d_str)
-    except: TypeError
+    except TypeError:
+        return None
 
 
 def dist_author_date(author_id_1, author_id_2):
@@ -190,11 +202,37 @@ def dist_author_date(author_id_1, author_id_2):
     author_date_2 = get_author_birth_date(author_id_2)
     author_date_death_1 = get_author_death_date(author_id_1)
     author_date_death_2 = get_author_death_date(author_id_2)
-    if author_date_1 is None or author_date_2 is None:
-        return 1
-    return dist_year(author_date_1, author_date_2)
+    if author_date_1 is not None and author_date_2 is not None and (
+            author_date_death_1 is None or author_date_death_2 is None):
+        return dist_year(author_date_1, author_date_2)
+    if author_date_death_1 is not None and author_date_death_2 is not None:
+        return dist_year(author_date_death_1, author_date_death_2)
+    if author_date_1 is not None and author_date_2 is not None and author_date_death_1 is not None and author_date_death_2 is not None:
+        return (dist_year(author_date_1, author_date_2) + dist_year(author_date_death_1, author_date_death_2)) / 2
+    if (author_date_1 is None or author_date_2 is None) and (
+            author_date_death_1 is None or author_date_death_2 is None):
+        return None
 
 
+def dist_author(author_id_1, author_id_2):
+    author_name_1 = get_author_name(author_id_1)
+    author_name_2 = get_author_name(author_id_2)
+    author_date_1 = get_author_birth_date(author_id_1)
+    author_date_2 = get_author_birth_date(author_id_2)
+    author_name = dist_author_name(author_id_1, author_id_2)
+    author_date = dist_author_date(author_id_1, author_id_2)
+    if author_name is None or author_date is None:
+        return None
+    if author_name is not None and author_date is None:
+        return author_name
+    if author_name is None and author_date is not None:
+        return author_date
+    if author_name is not None and author_date is not None:
+        #print(author_name_1, "  ", author_name_2, "  ", author_date_1, "  ", author_date_2)
+        return (author_name + author_date) / 2
+
+
+'''
 def dist_author(author_id_1, author_id_2):
     if dist_author_name(author_id_1, author_id_2) < 0.3:
         author_name_1 = get_author_name(author_id_1)
@@ -216,13 +254,16 @@ def dist_author(author_id_1, author_id_2):
     #    print("Name different")
     #if dist_author_date(author_id_1, author_id_2) > 0.6:
     #    print("Date differente")
-
+'''
 for x in range(len(tab_id2)):
     for i in range(x + 1, len(tab_id2)):
-        #print(tab_id[x],tab_id[i])
-        #print(dist_author_name(tab_id2[x],tab_id2[i]))
-        #print(get_author_name(tab_id2[x]))
-        dist_author(tab_id2[x],tab_id2[i])
+        # if dist_author_date(tab_id2[x],tab_id2[i]) is not None:
+        #    print(dist_author_date(tab_id2[x],tab_id2[i]))
+        #if get_author_alt_names(tab_id2[x]) is not None:
+        #    print(get_author_alt_names(tab_id2[x]))
+        # print(get_author_name(tab_id2[x]))
+        if dist_author(tab_id2[x],tab_id2[i]) is not None:
+            print(dist_author(tab_id2[x],tab_id2[i]))
 
 '''
 for x in range(len(tab_id2)):
@@ -231,6 +272,7 @@ for x in range(len(tab_id2)):
         #dist_author_name(tab_id[x],tab_id[i])
         print(dist_author_date(tab_id2[x],tab_id2[i]))
 '''
+
 
 def get_author_birth_date(author_id):
     c.execute("SELECT BIRTH_DATE FROM AUTHOR WHERE ID=?", (author_id,))
